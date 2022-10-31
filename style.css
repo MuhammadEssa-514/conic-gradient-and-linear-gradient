@@ -1,0 +1,12 @@
+.box{
+    height: 160px;
+    width: 160px;
+    background-color: greenyellow;
+    float: left;
+    margin: 10px;
+    border-radius: 50%;
+}
+.b1{
+    background-image: url(a.jpeg);
+    background-size: cover;
+}
