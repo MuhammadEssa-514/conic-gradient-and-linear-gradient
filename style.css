@@ -10,3 +10,6 @@
     background-image: url(a.jpeg);
     background-size: cover;
 }
+.b2{
+    background-image: conic-gradient(red,green,yellow,blue,purple,white,black,wheat);
+}
