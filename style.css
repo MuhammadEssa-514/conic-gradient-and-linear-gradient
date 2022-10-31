@@ -13,3 +13,7 @@
 .b2{
     background-image: conic-gradient(red,green,yellow,blue,purple,white,black,wheat);
 }
+.b3{
+    background-image: repeating-conic-gradient(red 0deg ,red 10deg,yellow 10deg,yellow 11deg);
+
+}
