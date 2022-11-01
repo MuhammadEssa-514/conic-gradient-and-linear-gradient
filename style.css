@@ -33,8 +33,25 @@
     background-image: conic-gradient(
         red 0deg,red 90deg,
         blue 90deg,blue 180deg,
-        /* green 180deg,green 270deg, */
+        green 180deg,green 270deg,
         yellow 270deg,yellow 360deg
     );
 
 }
+.b6{
+    background-image: conic-gradient(from -30deg at 34% 61%,red 0deg,red 90deg,blue 90deg,blue 180deg,green 180deg,green 270deg,yellow 270deg,yellow 360deg);
+    border-radius: 0;
+    
+
+}
+.b6 h1{
+    font-size: 10rem;
+    margin-top: 0px;
+    /* margin-left: 17px; */
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* background-clip: border-box; */
+    /* -webkit-background-clip: border-box; */
+   
+}
+
+
