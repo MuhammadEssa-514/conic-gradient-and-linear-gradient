@@ -28,3 +28,13 @@
 
 
 }
+
+.b5{
+    background-image: conic-gradient(
+        red 0deg,red 90deg,
+        /* blue 90deg,blue 180deg, */
+        /* green 180deg,green 270deg, */
+        yellow 270deg,yellow 360deg
+    );
+
+}
