@@ -48,9 +48,9 @@
     font-size: 10rem;
     margin-top: 0px;
     margin-left: 17px;
-    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    /* background-clip: border-box; */
-    /* -webkit-background-clip: border-box; */
+    font-family:'Franklin Gothic Medium', Arial, sans-serif;
+    background-clip: border-box;
+    -webkit-background-clip: border-box;
    
 }
 
